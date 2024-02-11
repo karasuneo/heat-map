@@ -7,6 +7,9 @@ name = "pypi"
 folium = "*"
 pandas = "*"
 numpy = "*"
+matplotlib = "*"
+scipy = "*"
+geopandas = "*"
 
 [dev-packages]
 ipykernel = "*"
